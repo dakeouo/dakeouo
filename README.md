@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<table><tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakeouo&layout=compact"></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=dakeouo&count_private=true&show_icons=true&include_all_commits=true"></td>
+</tr></table>
+
 <!--
 **dakeouo/dakeouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
